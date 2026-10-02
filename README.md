@@ -2,13 +2,13 @@
 
 Repositorio academico de practicas de programacion.
 
-##Contenido
--Practica 1: Intruccion a Flask
--Practica 2: Formularios
--Practica 3: Proyecto
+## Contenido
+- Practica 1: Intruccion a Flask
+- Practica 2: Formularios
+- Practica 3: Proyecto
 
-##Requisitos
--Python
--Flask
--Visual Studio Code
+## Requisitos
+- Python
+- Flask
+- Visual Studio Code
 
